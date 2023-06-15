@@ -2,6 +2,8 @@
 
 https://github.com/testtestingtester/node-colorscheme
 
+![pastels](./screenshots/pastels.png)
+
 ## ABOUT
 A node.js library that extracts Color Schemes from [https://www.schemecolor.com](https://www.schemecolor.com) for use by Graphic Designs and Web Designs to make beautiful websites and themes. Colors are ready for use in your applications after importing the library, and if you want to update the palettes for use then you can run the scrape commands to refresh the available colors.
 
