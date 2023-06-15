@@ -1,5 +1,5 @@
 {
-  "name": "colorscheme",
+  "name": "@gxela/colorscheme",
   "version": "1.0.0",
   "description": "Color Schemes for Exterior, Graphic Designs, Web Designs, Weddings, Images, Brands, Logos, Pastels, Sports Teams and much more",
   "main": "src/index.ts",
